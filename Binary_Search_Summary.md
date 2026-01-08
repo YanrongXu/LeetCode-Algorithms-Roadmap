@@ -125,19 +125,19 @@ return left
 ## 六、已完成题目清单（核心）
 
 ### ✅ 已完成（主干题）
-- 704. Binary Search  
-- 374. Guess Number Higher or Lower  
-- 35. Search Insert Position  
-- 34. Find First and Last Position  
-- 875. Koko Eating Bananas  
-- 1011. Capacity To Ship Packages  
+ 704. Binary Search  
+ 374. Guess Number Higher or Lower  
+ 35. Search Insert Position  
+ 34. Find First and Last Position  
+ 875. Koko Eating Bananas  
+ 1011. Capacity To Ship Packages  
 
 👉 覆盖 **90% 高频二分模型**
 
 ### ⚠️ 可选补充（验证题）
-- 69. Sqrt(x)
-- 278. First Bad Version
-- 367. Valid Perfect Square
+ 69. Sqrt(x)
+ 278. First Bad Version
+ 367. Valid Perfect Square
 
 ---
 
