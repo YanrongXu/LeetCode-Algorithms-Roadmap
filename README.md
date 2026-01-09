@@ -41,8 +41,7 @@
 
 ## 2️⃣ Two Pointers（数组双指针）✅
 
-📁 目录：`algorithms/two-pointers/array/`  
-📄 总结文档：TwoPointers-Array.md  
+📄 总结文档：[`TwoPointers-Array.md`](./TwoPointers-Array.md)
 
 关键词：快慢指针 / 结果数组不变量 / k 次去重 / 左右夹逼  
 状态：已封档，可迁移
