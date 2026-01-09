@@ -11,7 +11,7 @@
 
 ---
 
-## 01️⃣ Binary Search（二分查找）✅
+## 1️⃣ Binary Search（二分查找）✅
 
 📄 总结文档：[`Binary_Search_Summary.md`](./Binary_Search_Summary.md)
 
@@ -38,3 +38,11 @@
 | 367 | Valid Perfect Square | ⏳ |
 
 ---
+
+## 2️⃣ Two Pointers（数组双指针）✅
+
+📁 目录：`algorithms/two-pointers/array/`  
+📄 总结文档：TwoPointers-Array.md  
+
+关键词：快慢指针 / 结果数组不变量 / k 次去重 / 左右夹逼  
+状态：已封档，可迁移
