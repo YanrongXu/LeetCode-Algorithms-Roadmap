@@ -13,7 +13,7 @@
 
 ## 1️⃣ Binary Search（二分查找）✅
 
-📄 总结文档：[`Binary_Search_Summary.md`](./Binary_Search_Summary.md)
+📄 总结文档：[`Binary_Search_Summary.md`](./BinarySearch/README.md)
 
 > 关键词：单调性 / check(mid) / 二分数组 / 二分答案  
 > 状态：**已完成，可复用**
@@ -41,7 +41,7 @@
 
 ## 2️⃣ Two Pointers（数组双指针）✅
 
-📄 总结文档：[`TwoPointers-Array.md`](./TwoPointers-Array.md)
+📄 总结文档：[`TwoPointers-Array.md`](./TwoPointer/README.md)
 
 关键词：快慢指针 / 结果数组不变量 / k 次去重 / 左右夹逼  
 状态：已完成，可复用
