@@ -55,3 +55,48 @@
 | 80 | Remove Duplicates from Sorted Array II | k 次去重（k = 2，不变量升级） |
 | 283 | Move Zeroes | 过滤变体（非 0 前移） |
 | 977 | Squares of a Sorted Array | 左右夹逼双指针（从后填） |
+
+---
+
+## 3️⃣ Sliding Window（滑动窗口）✅
+
+📄 总结文档：[`Sliding_Window_Summary.md`](./SlidingWindow/ReadMe.md)
+
+> 关键词：连续区间 / 双指针不回头 / 合法即缩 / ≤K 约束 / 频次窗口  
+> 状态：**已完成（核心模型毕业，可稳定应对面试）**
+
+---
+
+### ✅ 已完成题目（核心必刷）
+
+| LeetCode | Title | 主要训练点 |
+|--------|------|-----------|
+| 209 | Minimum Size Subarray Sum | 数值型窗口 / 最短 |
+| 904 | Fruit Into Baskets | 条件型窗口 / ≤2 种 |
+| 1004 | Max Consecutive Ones III | ≤K 个坏元素 |
+| 76 | Minimum Window Substring | 频次型窗口 / 天花板 |
+
+> 📌 **76 是滑动窗口分水岭题，必须吃透**
+
+---
+
+### ⚠️ 可选补充（巩固 & 变体）
+
+| LeetCode | Title | 训练重点 | 状态 |
+|--------|------|--------|------|
+| 643 | Maximum Average Subarray I | 固定长度窗口 | ⏳ |
+| 438 | Find All Anagrams in a String | 频次窗口（多解） | ⏳ |
+| 567 | Permutation in String | 频次窗口（判存在） | ⏳ |
+| 239 | Sliding Window Maximum | 单调队列（进阶） | ⏳ |
+
+---
+
+### 🧠 模型总结（一眼判断）
+
+- **连续子数组 / 子串**
+- **有明确窗口合法条件**
+- **目标是最值（最长 / 最短）**
+
+👉 满足以上三点，**优先考虑滑动窗口**
+
+---
